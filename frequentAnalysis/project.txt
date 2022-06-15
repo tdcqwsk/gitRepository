@@ -1,0 +1,5 @@
+    """
+    suppose S is projected database base on pattern's prefix,
+    so we only need to use the last element in pattern to
+    build projected database
+    """
